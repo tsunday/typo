@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 djangorestframework-stubs = "*"
+flake8 = "*"
+tox = "*"
 
 [packages]
 mypy = "*"
